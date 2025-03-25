@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Guilherme! 🐍  </h1>
+<h1 align="center">👋 Olá, eu sou o Guilherme! 🐍  </h1>
 
 ```python
 class DevPython:
