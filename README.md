@@ -1,1 +1,1 @@
-<h1 align="center">👋 Olá, eu sou o Guilherme! 🐍  </h1>
+<h1 align="center">👋  🐍  </h1>
