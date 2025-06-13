@@ -35,7 +35,7 @@ Desenvolvedor focado em automações **back-end com Python** e **front-end com A
 | Projeto             | Descrição                                                                 |
 |---------------------|--------------------------------------------------------------------------|
 | **RPA Banco Brasil** | Automação bancária com Python e Selenium, extração de extratos e movimentações. |
-| **Portal FAU**       | Aplicação Angular com formulários dinâmicos e validação reativa para cadastro de projetos. |
+| **SIF**       | Aplicação Angular com formulários dinâmicos e validação reativa para cadastro de projetos. |
 | **Gerador de Recibos** | Script Python para gerar recibos em PDF e Excel com base em planilhas.          |
 
 ---
