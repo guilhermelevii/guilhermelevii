@@ -1,4 +1,4 @@
-# 👨‍💻 Guilherme | Desenvolvedor Python & Angular
+# 👨‍💻 Guilherme Levi Costa | Desenvolvedor Python & Angular
 
 Desenvolvedor focado em automações **back-end com Python** e **front-end com Angular**. Experiência prática na criação de scripts, RPA, sistemas administrativos e interfaces modernas.
 
