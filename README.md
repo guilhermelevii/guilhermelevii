@@ -28,15 +28,6 @@ Desenvolvedor focado em automações **back-end com Python** e **front-end com A
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
----
-
-## 📁 Projetos em Destaque
-
-| Projeto             | Descrição                                                                 |
-|---------------------|--------------------------------------------------------------------------|
-| **RPA Banco Brasil** | Automação bancária com Python e Selenium, extração de extratos e movimentações. |
-| **SIF**       | Aplicação Angular com formulários dinâmicos e validação reativa para cadastro de projetos. |
-| **Gerador de Recibos** | Script Python para gerar recibos em PDF e Excel com base em planilhas.          |
 
 ---
 
